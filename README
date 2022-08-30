@@ -9,11 +9,10 @@
 * Installation/Compilation
   If everything goes well then
 : ./AllwmakeAll
-  should compile the essential requirements before compiling
+  should unzip the Examples.zip, Libraries.zip, privateRequirements.zip, releases.zip before compiling
   =swak4Foam= itself (remember: there is an *if* in that sentence)
 ** Requirements
-   - Version 2.0 or higher of OpenFOAM and version 3.0 or higher of
-     Foam.
+   - Version 4.0 of OpenFOAM-Extend
 
 # Local Variables:
 # eval: (add-hook 'after-save-hook 'org-md-export-to-markdown t t)
