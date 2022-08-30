@@ -7,8 +7,8 @@
 ** Documentation
    See: http://openfoamwiki.net/index.php/contrib/swak4Foam
 * Installation/Compilation
-  If everything goes well then
-: ./AllwmakeAll
+compile with:
+./AllwmakeAll
   should unzip the Examples.zip, Libraries.zip, privateRequirements.zip, releases.zip before compiling
   =swak4Foam= itself (remember: there is an *if* in that sentence)
 ** Requirements
