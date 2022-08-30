@@ -1,5 +1,5 @@
 # -*- mode: org -*-
-#+TITLE: =README= for =swak4Foam= - Version for OpenFOAM 2.x
+#+TITLE: =README= for =swak4Foam= - Version for OpenFOAM Extend 4.x
 #+OPTIONS: H:4 toc:nil
 * Description
   A collection of libraries and tools that let the user handle
