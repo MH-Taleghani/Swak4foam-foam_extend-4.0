@@ -8,7 +8,7 @@
    See: http://openfoamwiki.net/index.php/contrib/swak4Foam
 * Installation/Compilation
 compile with:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8219500.svg)](https://doi.org/10.5281/zenodo.8219500)
+
 ./AllwmakeAll
 
   should unzip the Examples.zip, Libraries.zip, privateRequirements.zip, releases.zip before compiling
