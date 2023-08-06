@@ -18,5 +18,3 @@ compile with:
 # Local Variables:
 # eval: (add-hook 'after-save-hook 'org-md-export-to-markdown t t)
 # End:
-
-[![DOI](https://zenodo.org/badge/530587660.svg)](https://zenodo.org/badge/latestdoi/530587660)
