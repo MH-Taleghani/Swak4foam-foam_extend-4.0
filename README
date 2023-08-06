@@ -15,8 +15,9 @@ compile with:
   =swak4Foam= 
 ** Requirements
    - Version 4.0 of OpenFOAM-Extend
-## Citation
-[![DOI](https://zenodo.org/badge/530587660.svg)](https://zenodo.org/badge/latestdoi/530587660)
+
+### Citation 
+cite as: [![DOI](https://zenodo.org/badge/530587660.svg)](https://zenodo.org/badge/latestdoi/530587660)
 
 # Local Variables:
 # eval: (add-hook 'after-save-hook 'org-md-export-to-markdown t t)
